@@ -1,0 +1,9 @@
+div{
+	width: 600px;
+	background-color: white;
+	box-shadow: 10px 10px 5px #808080;
+	border-radius: 10px;
+	margin: auto;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
