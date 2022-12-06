@@ -1,1 +1,0 @@
-# ShigenoTakehiro.github.io
